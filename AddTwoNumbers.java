@@ -10,7 +10,7 @@ class AddTwoNumbers{
 		
 		System.out.println("Sum of these two Number is: " + sum );
 		
-		sc.close();
 		
-		}
-		}
+		
+	}
+}
