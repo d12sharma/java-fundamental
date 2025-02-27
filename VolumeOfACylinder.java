@@ -11,9 +11,9 @@ class VolumeOfACylinder{
 	double Volume = Math.PI * (Radius*Radius) * Height;
 	System.out.println("Volume of the Cylinder is :" + Volume);
 	
-	sc.close();
+	
 	
 	}
-	}
+}
 	
 	
