@@ -8,7 +8,7 @@ import java.util.Scanner;
 	
 	int temperatureinFahrenheit = (temperatureinCelsius * 9/5) + 32;
 	
-	System.out.println("Temperature in Fahrenheit is"  + temperatureinFahrenheit);
+	System.out.println("Temperature in Fahrenheit is : "  + temperatureinFahrenheit);
 	
 	sc.close();
 	
